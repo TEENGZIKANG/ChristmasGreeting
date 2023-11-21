@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylised Christmas tree
+* source:	https://sketchfab.com/3d-models/stylised-christmas-tree-6b973796c0774c559c41b07d99ee26b6
+* author:	MaksArt (https://sketchfab.com/MaksArt)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylised Christmas tree" (https://sketchfab.com/3d-models/stylised-christmas-tree-6b973796c0774c559c41b07d99ee26b6) by MaksArt (https://sketchfab.com/MaksArt) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
